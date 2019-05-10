@@ -1,3 +1,5 @@
+#Get's notification messages from user's database.
+
 import requests
 
 def notifyId(username):
