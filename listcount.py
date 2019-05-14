@@ -1,3 +1,5 @@
+#get users anime list data count
+
 import requests
 
 def notifyId(username):
