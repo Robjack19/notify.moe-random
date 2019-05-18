@@ -39,8 +39,6 @@ while ahead:
     break
 
 while times:
-    print('*')
-
     #ADJUST TIME IN SECONDS
 
     time.sleep(3600)
